@@ -49,7 +49,7 @@ Você nunca precisa usar `ejetar`. O conjunto de recursos selecionados é adequa
 
 *Instalação*
 - [x] npx create-react-app my-app-redux;
-- [] npm install --save redux react-redux;
+- [ ] npm install --save redux react-redux;
 - [] npm install.
 
 *Criar dentro do diretório src:*
